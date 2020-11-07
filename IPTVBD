@@ -34,3 +34,19 @@ http://103.205.133.50/hls/atnnews.m3u8
 http://103.205.133.50/hls/gaanbangla.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",Sangsad TV
 http://bdiptv.net:8080/SangsadTV/tracks-v1a1/mono.m3u8?token=6fabaee894a246bbf47e30f68d3c2a97bc5af7d4-f8395711ecdecb35af32fc16740624de-1604776197-1604765397
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
+http://bdiptv.net:8080/SangeetBangla/tracks-v1a1/mono.m3u8?token=0b0b795744d9c469c6d3bc14a08429b3994cf8ef-16ba9f2308bd851b605d080502b343b8-1604777018-1604766218
+#EXTINF:0 tvg-logo="https://mpng.subpng.com/20181216/oea/kisspng-television-channel-kolkata-ruposhi-bangla-bengali-ruposhi-bangla-tv-serial-5c1687910255f3.6522175015449803690096.jpg" group-title="Indian",Ruposhi Bangla
+http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8?token=1e0f4127024abdd2f904d91337e18cba36e452ff-06e81a47200b211398c4c8e2f55b6498-1604777201-1604766401
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian",Colors
+http://bdiptv.net:8080/Colors/tracks-v1a1/mono.m3u8?token=60ddd7870249b68abd2118f3f09f4f1294bf945b-52eb42b77a0413d6609d937cf6b8b4e2-1604777368-1604766568
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/400/2010-08-9XM-Logo1.jpg" group-title="Indian",9xm
+http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8?token=700c5b65b1f414ff40102bac838fc211fed997e8-49600def1f67fdf183d0595bd2bf6f5f-1604777483-1604766683
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
+
