@@ -44,9 +44,4 @@ http://bdiptv.net:8080/RuposhiBangla/tracks-v1a1/mono.m3u8?token=1e0f4127024abdd
 http://bdiptv.net:8080/Colors/tracks-v1a1/mono.m3u8?token=60ddd7870249b68abd2118f3f09f4f1294bf945b-52eb42b77a0413d6609d937cf6b8b4e2-1604777368-1604766568
 #EXTINF:0 tvg-logo="https://www.adgully.com/img/400/2010-08-9XM-Logo1.jpg" group-title="Indian",9xm
 http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8?token=700c5b65b1f414ff40102bac838fc211fed997e8-49600def1f67fdf183d0595bd2bf6f5f-1604777483-1604766683
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Indian",Sangit Bangla
 
