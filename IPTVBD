@@ -12,6 +12,8 @@ http://103.205.133.50/hls/banglavision.m3u8
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi",ATN Bangla
 http://103.205.133.50/hls/atnbangla.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="Bangladeshi",22.Ekushey TV
+http://103.205.133.50/hls/ekushey.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="Bangladeshi",DBC News
 http://103.205.133.50/hls/dbcnews.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="Bangladeshi",News 24
@@ -28,3 +30,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
 http://103.205.133.50/hls/satv.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="Bangladeshi",ATN News
 http://103.205.133.50/hls/atnnews.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",Gaan Bangla HD
+http://103.205.133.50/hls/gaanbangla.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Bangladeshi",Sangsad TV
+http://bdiptv.net:8080/SangsadTV/tracks-v1a1/mono.m3u8?token=6fabaee894a246bbf47e30f68d3c2a97bc5af7d4-f8395711ecdecb35af32fc16740624de-1604776197-1604765397
