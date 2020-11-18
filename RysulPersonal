@@ -164,33 +164,47 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 http://otv.ftpbd.net/streams/123/index.m3u8
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",SOMOY TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
+#EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",GAAN BANGLA
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
+#EXTINF:0 tvg-id="TravelXP.in" group-title="Channels",TRAVEL XP HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR UTSAV MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
+#EXTINF:0 tvg-id="StarMovies.in" group-title="Channels",STAR MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:0 tvg-id="StarGold.uk" group-title="Channels",STAR GOLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SETMAX HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="Channels",NAT GEO WILD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",MTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+#EXTINF:0 tvg-id="JalshaMovies.in" group-title="Channels",JALSHA MOVIES
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY ENGLISH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:0 tvg-id="Colors.uk" group-title="Channels",COLORS
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bflix MOVIE
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC WORLD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
+#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Channels",BBC Lifestyle
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
+#EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Channels",BBC EARTH
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Kathbirali
-http://10.16.100.248/ftps6d8/Movies/Bangla/Kathbirali%20(2019)%20720p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) iti Tomari Dhaka
-http://10.16.100.241/ftps3d10/Movies/Bangla/Iti%20Tomari%20Dhaka%20(2018)%20HDRip.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Doob
-http://10.16.100.254/ftps17d1/Movies/Bangla%20BD/Doob%20(2017)%20Bangla%201080p%20BluRay.mp4
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Pilla Zamindar
-http://10.16.100.245/ftps2d3/Movies/South%20Indian%20(Hindi%20Dubbed)/Pilla%20Zamindar%20(Daanveer)%20(2011)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Poorna
-http://10.16.100.248/ftps6d9/Movies/South%20Indian%20(Hindi%20Dubbed)/Poorna%20(2017)%201080p%20WEBDL.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Serious Man
-http://content.discoveryftp.net/Movies/Hindi/2020/Serious%20Men/Serious.Men.2020.1080p.NF.WEB-DL.DDP5.1.H.264-KamiKaze.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Bulbbul
-http://content.discoveryftp.net/Movies/Hindi/2020/Bulbbul/MLSBD.CO%20BBL%201080P%20NF%20WEB-DL%20Multi%20Audio%20Msubs.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Attraction 
-http://10.16.100.248/ftps6d7/Movies/Dual%20Audio/Attraction%20(Prityazhenie)%20(2017)%20(English%20&%20Russian)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Movie", (ONLINE) Attraction 2
-http://10.16.100.248/ftps6d8/Movies/Dual%20Audio/Attraction%202%20-%20Invasion%20(Vtorzhenie)%20(2020)%20(English%20&%20Russian)%201080p%20BluRay.mkv
 
 
 
