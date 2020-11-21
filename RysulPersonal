@@ -164,6 +164,7 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 http://otv.ftpbd.net/streams/123/index.m3u8
 
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SOMOY TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
 #EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
@@ -205,21 +206,4 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Channels",BBC EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Animation", (ONLINE) True North
-http://content.discoveryftp.net/Movies/Animation/2020/True%20North/True.North.2020.1080p.WEBRip.x264.AAC-[YTS.MX].mp4
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Animation", (ONLINE) Ploye
-http://content.discoveryftp.net/Movies/Animation/2018/PLOEY%20You%20Never%20Fly%20Alone/PLOEY%20You%20Never%20Fly%20Alone%202018%20720p%20BRRip%20x264%20[MW].mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Animation", (ONLINE) Croods
-http://content.discoveryftp.net/Movies/Dubbed/Animation/2013/The%20Croods/1_Croods_The.Croods.(2013).1080p.Dual.Audio.(Hindi-Eng).[MoviesFlix.in].mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Animation", (ONLINE) LATTE & THE MAGIC WATERSTONE
-http://10.16.100.248/ftps6d9/Movies/Animated/Latte%20The%20Magic%20Waterstone%20(2019)%201080p%20BluRay.mkv
-
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/1-15852_exp-movie-icon.png" group-title="Animation", (ONLINE) The Snail and the Whale
-http://103.91.144.230/ftpdata/Movies/AMINATION_MOVIE/2019/The%20Snail%20and%20the%20Whale%20%282019%29/The.Snail.and.the.Whale.2019.720p.WEB.H264-BaNHaMMER.mkv
 
