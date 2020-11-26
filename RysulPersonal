@@ -166,6 +166,8 @@ http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-23.png" group-title="Fevorite", Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ICC", Movie Jallikattu
+http://content.discoveryftp.net/Movies/Dubbed/Tamil/2019/Jallikattu/%5Bwww.Movcr.com%5D%20-Jallikattu%20(Karuppan)%20(2018)%20720p%20Hindi%20Dubbed%20WEB%20HD%20x264%20AAC%201GB%5BMOVCR%5D.MP4
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",SOMOY TV
