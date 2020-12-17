@@ -211,4 +211,5 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Channels",BBC EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
-
+#EXTINF:0 tvg-id="ext" group-title="Movie",Kal ho na ho
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282003%29/Kal%20Ho%20Naa%20Ho%20%282003%29%201080p/Kal%20Ho%20Naa%20Ho%20%282003%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
