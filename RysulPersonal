@@ -75,9 +75,6 @@ http://10.16.100.204/hls/&tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="ICC", (ONLINE) Colors
 http://10.16.100.201/hindi/colorsin.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uL85kHC.jpg" group-title="ICC", (ONLINE) Colors 2
-http://103.76.243.66:8000/hls/chc.m3u8?itcnbd_jhenaidah_01874888182_itcnbd.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/45hPX07.jpg" group-title="ICC", (ONLINE) Sony TV
 http://10.16.100.204/hls/sony_tv_720.m3u8
 
@@ -211,5 +208,9 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
 #EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Channels",BBC EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Movie",Kal ho na ho
-http://cdn1.moviehaat.net:8888/BollywoodMovie/Kal%20Ho%20Naa%20Ho%202003%20Hindi%20720P%20BRRip%20x264%20E-SuB%20xRG.mp4
+
+#EXTINF:0 tvg-id="Colors.uk" group-title="New",COLORS (3)
+http://103.205.133.21/hls/chc.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="New",COLORS (4)
+http://103.205.133.48/hls/chc.m3u8
+
