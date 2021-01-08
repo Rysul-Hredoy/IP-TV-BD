@@ -136,77 +136,7 @@ http://10.16.100.207:8082/sports/starsports_select1.m3u8
 http://10.16.100.207:8082/sports/ssselect2.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-2.png" group-title="Fevorite", Channel 9
-http://otv.ftpbd.net/streams/102/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-8.png" group-title="Fevorite", Gazi TV
-http://otv.ftpbd.net/streams/108/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-9.png" group-title="Fevorite", Sony Max
-http://otv.ftpbd.net/streams/109/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-10.png" group-title="Fevorite", National Geographic HD
-http://otv.ftpbd.net/streams/110/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-21.png" group-title="Fevorite", Discovery HD
-http://otv.ftpbd.net/streams/121/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-25.png" group-title="Fevorite", Star Movies HD
-http://otv.ftpbd.net/streams/125/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-11.png" group-title="Fevorite", HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-24.png" group-title="Fevorite", UTV Action
-http://otv.ftpbd.net/streams/124/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-23.png" group-title="Fevorite", Cartoon Network
-http://otv.ftpbd.net/streams/123/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="ICC", Movie Jallikattu
-http://content.discoveryftp.net/Movies/Dubbed/Tamil/2019/Jallikattu/%5Bwww.Movcr.com%5D%20-Jallikattu%20(Karuppan)%20(2018)%20720p%20Hindi%20Dubbed%20WEB%20HD%20x264%20AAC%201GB%5BMOVCR%5D.MP4
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",SOMOY TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
-#EXTINF:0 tvg-id="NTV.uk" group-title="Channels",NTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GAAN BANGLA
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
-#EXTINF:0 tvg-id="TravelXP.in" group-title="Channels",TRAVEL XP HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR UTSAV MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.ts
-#EXTINF:0 tvg-id="StarMovies.in" group-title="Channels",STAR MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:0 tvg-id="StarGold.uk" group-title="Channels",STAR GOLD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SETMAX HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:0 tvg-id="NGCWild.eu" group-title="Channels",NAT GEO WILD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/60.ts
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",MTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:0 tvg-id="JalshaMovies.in" group-title="Channels",JALSHA MOVIES
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY ENGLISH
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:0 tvg-id="Colors.uk" group-title="Channels",COLORS
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",CARTOON NETWORK
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bflix MOVIE
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC WORLD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:0 tvg-id="BBCLifestyle.pl" group-title="Channels",BBC Lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Channels",BBC EARTH
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
 
 
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",COLORS (3)
@@ -215,4 +145,8 @@ http://103.205.133.21/hls/chc.m3u8
 http://103.205.133.48/hls/chc.m3u8
 #EXTINF:0 tvg-id="SonyMax.uk" group-title="New",Sony Max 
 http://45.127.244.7:8080/hls/channel6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="New",SOMOY TV (1)
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8?Live-TV™
+#EXTINF:0 tvg-id="ext" group-title="New",Discovery Bangla (Slow)
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 
