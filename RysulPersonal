@@ -137,6 +137,21 @@ http://10.16.100.207:8082/sports/ssselect2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-21.png" group-title="FTPBD", Discovery HD 
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-10.png" group-title="FTPBD", National Geography
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-25.png" group-title="FTPBD", Star Movies
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-24.png" group-title="FTPBD", UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-9.png" group-title="FTPBD", Sony Max
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ftpbd.net/online-tv/images/ch_logos/logo-15.png" group-title="FTPBD", Jolsha Movies
+http://otv.ftpbd.net/streams/115/index.m3u8
+
+
+
 
 
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",COLORS (3)
