@@ -151,4 +151,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",Discovery Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:0 tvg-id="Colors.uk" group-title="New",Discovery Bangla SD
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 
