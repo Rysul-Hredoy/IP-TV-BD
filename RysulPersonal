@@ -178,5 +178,7 @@ http://103.205.133.48/hls/chsp.m3u
 http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",9xm (2)
 http://103.205.133.20/hls/9xm.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="New",Ten 2
+http://10.16.100.207:8082/sports/dish_teN2_hD.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New", Udta Punjab
 http://10.16.100.241/ftps3d6/Movies/Hindi/Udta%20Punjab%20(2016)%20720p%20BluRay.mkv
