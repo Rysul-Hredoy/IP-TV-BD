@@ -174,8 +174,8 @@ http://103.205.133.48/hls/gaanbangla.m3u8
 http://103.205.133.20/hls/ntv.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",Star Plus
 http://103.205.133.48/hls/chsp.m3u
-#EXTINF:0 tvg-id="Colors.uk" group-title="New",9xm
-http://103.205.133.48/hls/9xm.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="New", Ten 1
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New",9xm (2)
 http://103.205.133.20/hls/9xm.m3u8
 #EXTINF:0 tvg-id="Colors.uk" group-title="New", Udta Punjab
